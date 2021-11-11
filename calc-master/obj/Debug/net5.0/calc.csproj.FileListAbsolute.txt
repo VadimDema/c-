@@ -1,0 +1,16 @@
+C:\Users\Администратор\source\repos\calc\bin\Debug\net5.0\calc.exe
+C:\Users\Администратор\source\repos\calc\bin\Debug\net5.0\calc.deps.json
+C:\Users\Администратор\source\repos\calc\bin\Debug\net5.0\calc.runtimeconfig.json
+C:\Users\Администратор\source\repos\calc\bin\Debug\net5.0\calc.runtimeconfig.dev.json
+C:\Users\Администратор\source\repos\calc\bin\Debug\net5.0\calc.dll
+C:\Users\Администратор\source\repos\calc\bin\Debug\net5.0\ref\calc.dll
+C:\Users\Администратор\source\repos\calc\bin\Debug\net5.0\calc.pdb
+C:\Users\Администратор\source\repos\calc\obj\Debug\net5.0\calc.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\calc\obj\Debug\net5.0\calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\source\repos\calc\obj\Debug\net5.0\calc.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\calc\obj\Debug\net5.0\calc.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\calc\obj\Debug\net5.0\calc.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\calc\obj\Debug\net5.0\calc.dll
+C:\Users\Администратор\source\repos\calc\obj\Debug\net5.0\ref\calc.dll
+C:\Users\Администратор\source\repos\calc\obj\Debug\net5.0\calc.pdb
+C:\Users\Администратор\source\repos\calc\obj\Debug\net5.0\calc.genruntimeconfig.cache
